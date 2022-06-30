@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hello World 🌍, I'm Irma López González</h1>
+<h1 align="center">Hello 👋, I'm Irma López González</h1>
 <h3 align="center">Backend Django Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irmalop&label=Profile%20views&color=0e75b6&style=flat" alt="irmalop" /> </p>
